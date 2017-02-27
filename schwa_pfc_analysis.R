@@ -1,5 +1,3 @@
-library(xtable)
-library(xlsx)
 library(lme4)
 
 source("schwa_functions.R")

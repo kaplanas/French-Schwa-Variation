@@ -1,0 +1,410 @@
+,SearchID,Speaker,LeftContext,RightContext,C1,C2,Schwa,C3,Codes,City,Discourse,Schwa,Word,Left,Right,Sex,Region,Zone,SchwaBin
+54019,7,cqamt1,MT: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54022,10,cqams1,sentiment de0112 se,trouver dans une0411 impasse1412 stupide0413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54023,11,cqams1,22 trouver au centre,"d'une0412 bataille0412 politique0412 dont, par041",t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54027,15,cqams1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se111,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54034,22,cqamg1,sentiment de1112 se,re1212trouver dans une0411 impasse0412 stupide04,d,s,ə,R,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54044,32,cqajs1,3 plutat que0112 se,trouver,k,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54047,35,cqajs1,JF: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54069,57,cqacp2,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se111,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54071,59,cqacp1,sentiment de1112 se,trouver dans un impasse0414 stupide2413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54079,67,cqacp1,que0412 maire0412 de,Beaulieu,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54100,88,cqamt1,au Premier Ministre,pour0412 varifier si so/-n village0414 atait vr,t,R,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54101,89,cqamt1,ue1112 des activiste,s des commune0412s voisine0414s prapare0411nt une,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54121,109,cqamg1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se111,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54126,114,cqamg1,22 trouver au centre,"d'une0412 bataille0412 politique0412 dont, par041",t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54132,120,cqajs1,ue1112 des activiste,s des commune0412s voisine0414s prapare0411nt une,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54143,131,cqajr1,22 trouver au centre,"d'une0412 bataille0412 politique0412 dont, par041",t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54152,140,cqacp2,: plutat que0112 se,trouver au centre1422 d'une0412 bataille0412 poli,k,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54158,146,cqacp1,,"trouver au cent/, de se re/ de se trouver au cent",?,?,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54178,166,cqaab1,22 trouver au centre,"d'une0412 bataille0412 politique0412 dont, par041",t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54180,168,cqamg1,,trouver au centre1422 d'une0412 bataille0412 poli,?,?,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54194,182,cqaab1,"De1132 plus, quelque",s article1422s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54195,183,cqaab1,quelque1422s article,"s parus dans La Dapache0412 du Centre0423, L'Exp",k,l,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54198,186,cqaab1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se111,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54222,210,cqaab1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54230,218,cqaab1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54242,230,cqaab1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54244,232,cqaab1,mier Minis0452tre ne,cesse0412 de1122 baisser de1212puis les alection,R,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54249,237,cqaab1,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54256,244,cqaab1,"0312ment, car0412 le","Premier Minis0453tre, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54266,254,cqaab1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54269,257,cqaab1,hampion local0412 de,"course0421 a pied, Louis Jarret, euh Garret, par",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54272,260,cqaab1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses jemi",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54288,276,cqacp1,en dasespoir0412 de,"cause0413, dacida a acrire0411 au Premier Min",R,d,ə,c,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54292,280,cqacp1,quelque1422s article,"s parus dans La Dapache0412 du Centre2423, L'Exp",k,l,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54293,281,cqacp1,"De1132 plus, quelque",s article1422s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54299,287,cqacp1,jaloux de1112 notre,liberta.,t,R,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54306,294,cqacp1,Un jeune0412 membre,de1112 l'opposition aurait daclara.,b,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54309,297,cqacp1,"P: risquent, risque",nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54315,303,cqacp1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54325,313,cqacp1,"423, le1132 gouverne",ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,F,Quebec,Canada,1
+54344,332,cqacp1,ne1132 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54348,336,cqacp1,"e1122 Beaulieu, Marc","Blanc, est en re1212vanche0412 tres inquiet.",R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54352,340,cqacp1,ut dacouvrir0412 ce,qu'il appelle0414 (euh) la campagne0412 profonde1,R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54358,346,cqacp1,"0312ment, car0412 le","Premier Ministre1423, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54368,356,cqacp1,ux olympique0412s de,"Berlin en dix0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54374,362,cqacp1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc,",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54376,364,cqacp2,PO: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54383,371,cqacp2,ue1112 des activiste,s des commune0412s voisine0412s prapare0411nt une,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54387,375,cqacp2,"L'Express0413, Ouest",Liberta et Le1112 Nouvel0411 Observateur0413,s,t,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54391,379,cqacp2,quelque1422s article,"s parus dans La Dapache0412 du Centre1423, L'Exp",k,l,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54392,380,cqacp2,"De1132 plus, quelque",s article1422s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54398,386,cqacp2,jaloux de1112 notre,liberta.,t,R,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54400,388,cqacp2,Un jeune0412 membre,de1112 l'opposition aurait daclara: Dans le0112,b,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54403,391,cqacp2,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54410,398,cqacp2,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54413,401,cqacp2,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54417,405,cqacp2,"423, le1132 gouverne",ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,M,Quebec,Canada,1
+54422,410,cqacp2,PO: D'un autre,"cata, a chaque0412 voyage0412 du Premier Minis",t,R,ə,k,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54435,423,cqacp2,ne1132 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54439,427,cqacp2,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc, est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54440,428,cqacp2,"e1122 Beaulieu, Marc","Blanc, est en re1212vanche0412 tres inquiet. La",R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,M,Quebec,Canada,0
+54448,436,cqacp2,ut dacouvrir0412 ce,"qu'il0411 appelle1414 \\""la campagne0412 profonde0""",R,s,ə,k,0122,Quebec ville (universite),read,no,monosyl,C,C,M,Quebec,Canada,0
+54454,442,cqacp2,PO: car0412 le,"Premier Ministre0423, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54464,452,cqacp2,ux olympique1412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54468,456,cqacp2,de1112 gloire0414 de,"Beaulieu ataient son vin blanc sec0413,",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54473,461,cqacp2,les seul0412s titre,s de1112 gloire0414 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54478,466,cqags1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54484,472,cqags1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54499,487,cqajr1,ue0112 des activiste,s des commune0412s voisine0414s prapare0411nt une,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54530,518,cqajr1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54532,520,cqajr1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54539,527,cqajr1,JR: le1132 gouverne,ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,F,Quebec,Canada,1
+54542,530,cqajr1,JR: D'un autre,"cata, a chaque0412 voyage0412 du Premier Minis",t,R,ə,k,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54556,544,cqajr1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54558,546,cqajr1,mier Ministre0424 ne,cesse0412 de1122 baisser de1212puis les alection,R,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54563,551,cqajr1,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc, est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54564,552,cqajr1,"e1122 Beaulieu, Marc","Blanc, est en re1212vanche0412 tres inquiet.",R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54567,555,cqajr1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne0412 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54574,562,cqajr1,"0312ment, car0412 le","Premier Ministre0423, le, lass/",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54583,571,cqajr1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54591,579,cqajr1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54594,582,cqajr1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses che0",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54598,586,cqajs1,"De1132 plus, quelque",s article1422s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54599,587,cqajs1,quelque1422s article,"s parus dans La Dapache0412 du Centre0424, L'Exp",k,l,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54603,591,cqajs1,"L'Express0413, Ouest",Liberta et Le1112 Nouvel0411 Observateur0413,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,M,Quebec,Canada,0
+54618,606,cqajs1,Un jeune0412 membre,de1112 l'opposition aurait daclara:,b,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54625,613,cqajs1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54630,618,cqajs1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54631,619,cqajs1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54637,625,cqajs1,JF: D'un autre,"cata, a chaque0412 voyage0412 du Premier Minis",t,R,ə,k,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54640,628,cqajs1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,M,Quebec,Canada,0
+54652,640,cqajs1,mier Ministre0412 ne,cesse0412 de1122 baisser de1212puis les alection,R,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54654,642,cqajs1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54662,650,cqajs1,"1122 Beaulieu, Marc",Blanc est en re1212vanche0412 tres inquiet.,R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,M,Quebec,Canada,0
+54670,658,cqajs1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne0412 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54676,664,cqajs1,122 Premier Ministre,", lassa des circuits habituel0412s qui tournaient",t,R,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+54678,666,cqajs1,"0312ment, car0412 le","Premier Ministre1422, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54683,671,cqajs1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54686,674,cqajs1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54690,678,cqajs1,hampion local0412 de,"course0421 a pied, Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+54699,687,cqamg1,MG: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54704,692,cqamg1,"L'Express0413, Ouest",Liberta et Le1112 Nouvel0411 Observateur0413,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54711,699,cqamg1,"De1132 plus, quelque",s article0424s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54721,709,cqamg1,jaloux de1112 notre,liberta.,t,R,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54723,711,cqamg1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54728,716,cqamg1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54737,725,cqamg1,"423, le1132 gouverne",ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,F,Quebec,Canada,1
+54741,729,cqamg1,MG: D'un autre,"cata, a chaque0412 voyage0412 du Premier Minis",t,R,ə,k,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54752,740,cqamg1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54759,747,cqamg1,Le1132 maire0412 de,"Beaulieu, Marc1422 Blanc, est en re1212vanche041",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54760,748,cqamg1,"1122 Beaulieu, Marc","Blanc, est en re1212vanche0412 tres inquiet.",R,k,ə,b,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54769,757,cqamg1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne0412 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54775,763,cqamg1,"0312ment, car0412 le","Premier Ministre0423, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54781,769,cqamg1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54784,772,cqamg1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54792,780,cqams1,MS: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54802,790,cqams1,"L'Express0413, Ouest",Liberta et Le1112 Nouvel0411 Observateur0413,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54808,796,cqams1,jaloux de0112 notre,liberta. S'il0412 faut montrer patte0412 blanche,t,R,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54817,805,cqams1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54818,806,cqams1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54822,810,cqams1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54826,814,cqams1,"423, le1132 gouverne",ment prend contac0451t avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,F,Quebec,Canada,1
+54828,816,cqams1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54843,831,cqams1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54851,839,cqams1,mier Ministre0414 ne,cesse0412 de1122 baisser de1212puis les alection,R,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54854,842,cqams1,"e1122 Beaulieu, Marc","Blanc, est en re1212vanche0412 tres inquiet.",R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54862,850,cqams1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne1414 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54875,863,cqams1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54878,866,cqams1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54881,869,cqams1,hampion local0412 de,"course0421 a pied, Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54884,872,cqams1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses che1",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54888,876,cqams1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54896,884,cqamt1,"de1132 plus, quelque",s article1422s parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54897,885,cqamt1,quelque1422s article,"s parus dans La Dapache0412 du Centre1423, L'Exp",k,l,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54908,896,cqamt1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54915,903,cqamt1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54918,906,cqamt1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se111,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54930,918,cqamt1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54940,928,cqamt1,ne1122 cesse0412 de,baisser de1212puis les alections.,s,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54943,931,cqamt1,MT: ne,cesse0412 de1122 baisser de1212puis les alection,?,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54944,932,cqamt1,le1112 maire0412 de,"Beaulieu, Marc0422 Blanc",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54945,933,cqamt1,"e1122 Beaulieu, Marc",Blanc,R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+54953,941,cqamt1,"e0412 Beaulieu, Marc","Blanc, euh le1112 maire0412 de1122 Beaulieu, Marc",R,k,ə,b,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+54962,950,cqamt1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne0412 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54970,958,cqamt1,"0312ment, car0412 le","Premier Ministre0414, lassa des circuits habitue",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54979,967,cqamt1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+54981,969,cqamt1,che0212mise0411s de,"soie,",z,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55019,1007,cqajs1,sentiment de0112 se,trouver dans une impasse0412 stupide0413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55023,1011,cqamg1,ue1112 des activiste,s des commune0412s voisine0414s prapare0411nt une,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55026,1014,cqamg1,au Premier Ministre,pour0412 varifier si son village0414 atait vrai,t,R,ə,p,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55042,1030,cqams1,,trouver au centre1422 d'une0412 bataille0412 poli,?,?,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55051,1039,cqajs1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se011,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55055,1043,cqajr1,sentiment de0112 se,trouver dans une0411 impasse0412 stupide0413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55058,1046,cqags1,ux olympique0412s de,"Berlin en mille0412 neuf cent trente0412 six0413,",k,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55060,1048,cqacp2,sentiment de0112 se,trouver dans une0411 impasse0414 stupide0413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55091,1079,cqajr1,,trouver au centre1422 d'une0412 bataille0412 poli,?,?,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55093,1081,cqajr1,que0412 maire0412 de,Beaulieu ne1112 sait plus a quel0412 saint se011,R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55095,1083,cqags1,hampion local0412 de,"course0421 a pied, Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55097,1085,cqacp2,22 trouver au centre,"d'une0412 bataille0412 politique0414 dont, par041",t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+55100,1088,cqacp1,se trouver au centre,d'une0412 bataille0412 politique0414,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55103,1091,cqacp1,P: Quelque,s fanatique2414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55107,1095,cqaab1,BB: Quelque,s fanatique0414s auraient mame0411 entama un je,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55114,1102,cqaab1,,trouver au centre1422 d'une0412 bataille0412 poli,?,?,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55120,1108,cqaab1,ue1112 des activiste,s des commune0412s voisine0414s,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55121,1109,cqaab1,sentiment de1112 se,"trouver dans un, une0411 impasse0412 stupide0413.",d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55124,1112,cqaab1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55126,1114,cqaab1,est fait pour0412 le,protager.,R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55128,1116,cqaab1,"413, le1132 gouverne",ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,F,Quebec,Canada,1
+55136,1124,cqaab1,"1122 Beaulieu, Marc",Blanc est en re1212vanche0412 tres inquiet.,R,k,ə,b,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+55139,1127,cqaab1,ut dacouvrir0412 ce,"qu'il appelle0414 \\""la campagne0412 profonde0413\""""",R,s,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55149,1137,cqaab1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55155,1143,cqacp1,ue1112 des activiste,s des commune0412s voisine0414s,s,t,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55165,1153,cqacp1,et s'assure0412 que,"tout est en fait euh, que tout est fait pour0412",R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55169,1157,cqacp1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+55172,1160,cqacp1,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc, est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55180,1168,cqacp1,"nt, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55184,1172,cqacp1,hampion local0412 de,"course0421 a pied Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55201,1189,cqacp2,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+55215,1203,cqacp2,son un/ usine0412 de,pates0414 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55219,1207,cqacp2,hampion local0412 de,"course0421 a pied, Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55224,1212,cqags1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc, sec0413,",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55226,1214,cqags1,0411 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55235,1223,cqajr1,JR: Quelque,s fanatique0414s auraient mame0414 entama le1112,l,k,ə,f,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55239,1227,cqajr1,"De1132 plus, quelque",s artic0452les parus dans La Dapache0412 du Cent,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55241,1229,cqajr1,s d'identita risque,nt de1112 provoquer une0411 explosion.,s,k,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55246,1234,cqajr1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+55256,1244,cqajr1,hampion local0412 de,"course0421 a pied Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55265,1253,cqajs1,"423, le1132 gouverne",ment prend contact0421 avec0412 la prafecture0412,R,n,ə,m,1322,Quebec ville (universite),read,yes,polysyl2,C,C,M,Quebec,Canada,1
+55270,1258,cqajs1,au Premier Ministre,pour0412 varifier si son village0414 atait vrai,t,R,ə,p,0422,Quebec ville (universite),read,no,polysylend,C,C,M,Quebec,Canada,0
+55275,1263,cqajs1,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55287,1275,cqajs1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses che0",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55297,1285,cqamg1,Un jeune0412 membre,de1112 l'opposition aurait daclara:,b,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55300,1288,cqamg1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55303,1291,cqamg1,bor0412ds manifeste,nt leur0412 colere0413.,s,t,ə,l,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55307,1295,cqamg1,mier Ministre0414 ne,cesse0412 de1122 baisser de1212puis les alection,R,n,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55320,1308,cqamg1,hampion local0412 de,"course0421 a pied Louis Garret,",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55329,1317,cqams1,"De1132 plus, quelque",s article1421s ont paru dans La Dapache0412 du C,l,k,ə,z,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55340,1328,cqams1,Le1132 maire0412 de,"Beaulieu, Marc0422 Blanc, est en re1212vanche0412",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55342,1330,cqams1,"0312ment, car0412 le","Premier Minist0453re, euh lassa des circuits hab",R,l,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55354,1342,cqamt1,"L'Express0413, Ouest",Liberta et Le1112 Nouvel0411 Observateur0413 ind,s,t,ə,l,0422,Quebec ville (universite),read,no,polysylend,C,C,F,Quebec,Canada,0
+55358,1346,cqamt1,Un jeune0412 membre,de1112 l'opposition aurait daclara:,b,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55362,1350,cqamt1,et s'assure0412 que,tout est fait pour0412 le1122 protager.,R,k,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55366,1354,cqamt1,MT: D'un autre,"cata, a chaque0412 voyage0412 du Premier Minis",t,R,ə,k,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55372,1360,cqamt1,sentiment de1112 se,trouver dans une0411 impasse1412 stupide0413.,d,s,ə,t,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55376,1364,cqamt1,"on, son usine0412 de",pates0411 italiennes0413.,n,d,ə,p,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55383,1371,cqamt1,hampion local0412 de,"course0421 a pied (Louis Garret0413), quatrieme",l,d,ə,k,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55386,1374,cqaab1,0411 au cour0412s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,0122,Quebec ville (universite),read,no,monosyl,C,C,F,Quebec,Canada,0
+55395,1383,cqaab1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55399,1387,cqacp1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55402,1390,cqacp1,0411 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55411,1399,cqacp1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55417,1405,cqacp2,0414 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55426,1414,cqacp2,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55442,1430,cqajr1,0411 au cour0112s de,"sa tournae de1112 la ragion de0112 fin, de1132",R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55451,1439,cqajr1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55458,1446,cqajs1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,M,Quebec,Canada,1
+55461,1449,cqajs1,0411 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55470,1458,cqajs1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,M,Quebec,Canada,1
+55474,1462,cqamg1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses che1",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55477,1465,cqamg1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55480,1468,cqamg1,0411 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55489,1477,cqamg1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55493,1481,cqams1,0411 au cour0112s de,"sa tournae de1112 la ragion de0111 euh, en fin",R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55502,1490,cqams1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55507,1495,cqamt1,de1112 gloire0412 de,"Beaulieu ataient son vin blanc sec0413, ses che0",R,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55510,1498,cqamt1,les seul0412s titre,s de1112 gloire0412 de1122 Beaulieu ataient son v,t,R,ə,d,1422,Quebec ville (universite),read,yes,polysylend,C,C,F,Quebec,Canada,1
+55513,1501,cqamt1,0411 au cour0112s de,sa tournae de0112 la ragion en fin d'annae.,R,d,ə,s,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+55522,1510,cqamt1,e1132 village0412 de,Beaulieu est en grand amoi.,ʒ,d,ə,b,1122,Quebec ville (universite),read,yes,monosyl,C,C,F,Quebec,Canada,1
+125375,8,cqams1,MS: parce0312 que,la graphie peut influencer parfois la faaon de01,s,k,ə,l,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+125399,32,cqajr1,,"venir0412 a Riviere0312duLoup,",?,?,ə,v,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+125414,47,cqacp2,O: alors lui Charle,"s lui il fait de0112 tout, lui,",R,l,ə,l,0422,Quebec ville (universite),guided,no,polysylend,C,C,M,Quebec,Canada,0
+125428,61,cqacp1,2 qu'ils me0112 faxe,"nt les schamas,",k,s,ə,l,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+125441,74,cqams1,ns le1112 Sud0412 de,l'Italie.,d,d,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125471,104,cqajr1,a Saint Anne0412 de,Beaupra.,n,d,ə,b,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+125511,144,cqacp1,anaais pour0412 que,"les atudiants puisse0412nt le1122 lire0413,",R,k,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125518,151,cqacp1,: un article0421 que,j'avais acrit expres en franaais pour0412 que1,l,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125523,156,cqaab1,BB: Sauf que,c'est le0112 contraire0412 qui est arriva c'est,f,k,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125530,163,cqaab1,BB: Euh parce,que1413.,R,s,ə,k,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+125549,182,cqaab1,2412 euh pour0412 le,Trasor0412 de0122 la Langue0412 Franaaise0412 (,R,l,ə,t,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125551,184,cqaab1,Deux met0452res de,neige0412 qui tombe0411nt il fait moins trente041,R,d,ə,n,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125565,198,cqaab1,/ne tempaate0412 de,neige0411 euh.,t,d,ə,n,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125568,201,cqaab1,je0132 pense0412 que,c'est la (hasitation),s,k,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125570,203,cqaab1,a grand'mere0412 de,mon grand'pere0412 qui atait Huronne.,R,d,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125585,218,cqaab1,BB: Parce0312 que,c'est vrai que0112 les amarindiens ataient peut,s,k,ə,s,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+125587,220,cqaab1,2 mon manage0412 de,chambre0412 mais un jour0411 elle0411 a re1212non,ʒ,d,ə,S,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125589,222,cqaab1,a essaya de0112 me,montrer a faire0412 mon manage0412 de1122 chamb,d,m,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125593,226,cqaab1,BB: Parce0312 que,"je0412 suis, ma mere0411 au/ ma mere0411 a essa",s,k,ə,ʒ,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+125604,237,cqaab1,BB: Alor0412s que,"lui il fait le0412 manage0413, donc0412 c'est un",R,k,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125608,241,cqaab1,"entre0421 euh, entre",nous deux c'est.,t,R,ə,n,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+125636,269,cqacp1,rends compte0412 que,tout atait a l'enver0413s.,t,k,ə,t,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125638,271,cqacp1,x0451te et je0112 me,rends compte0412 que1122 tout atait a l'enver04,ʒ,m,ə,R,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125659,292,cqacp1,t la je re0212garde,les corrections elles ataient pas toujour0412s b,R,d,ə,l,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+125692,325,cqacp1,0412 symbole0412 que,pour0412 l'anglais parce0312 qu'ils avaient mis d,l,k,ə,p,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125698,331,cqacp1,e0412 demande0412 de,"correction et tout ils se0112 sont trompas euh,",d,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+125715,348,cqacp2,PO: parce0312 que,"maintenant quand tu vois des aquations, des chif",s,k,ə,m,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+125737,371,cqacp2,12 que1412 je0112 me,"dis aa me0112 touche0412 pas, aa m'aide0412 pas",ʒ,m,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125743,377,cqacp2,apar0414t je0132 me,dis mais pourquoi ils veule0412nt prouver qu'unte,ʒ,m,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125752,386,cqacp2,"tions, parce0312 que","j'ai rien a dire0413,",s,k,ə,ʒ,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+125758,392,cqacp2,narativis0452tes je,"peux pas poser de0112 questions, parce0312 que142",t,ʒ,ə,p,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+125764,398,cqacp2,les discip0452les de,"Martinet ben de0112 temps a aut2454res euh, j'ai",l,d,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125767,401,cqacp2,l'extarieur0412 de,"cette04 thaorie,",R,d,ə,s,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+125782,416,cqacp2,orie explique0412 le,langage0413.,k,l,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125788,422,cqacp2,e1132 trouve0412 que,leur0412 ganarativisme0421 ici souvent consiste,v,k,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125800,434,cqags1,"euh, en r/en regle",ganarale0412 j'atais pas un atudiant a probl,g,l,ə,ʒ,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+125804,438,cqags1,aa mais (en) regle,ganarale0413.,g,l,ə,ʒ,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+125809,443,cqags1,a che0212mise0412 de,vait aatre0421 absolument boutonnae.,z,d,ə,v,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,M,Quebec,Canada,1
+125813,447,cqags1,2 peutaat0452re que,"aa de1212vient plus compliqua,",R,k,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125827,461,cqags1,e en histoire0412 de,l'Ar0412t.,R,d,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125833,467,cqags1,12 l'histoire0412 de,"l'ar0413t, aa m'a beaucoup intaressa,",R,d,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125841,475,cqags1,ar0412 manque0412 de,talent tout simplement.,k,d,ə,t,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125846,480,cqags1,ent des cour0412s de,cinama.,R,d,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125851,485,cqags1,"S: Euh, maame0412 de","thaatre0423 (rires), a oublier en ce1112 qui m",m,d,ə,t,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125855,489,cqags1,le0421 atude0412 de,"la littarature0413, il y avait agale0312ment de",d,d,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125860,494,cqags1,GS: on ne0112 se,"limitait pas a la, a la simple0421 atude0412 d",n,s,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125862,496,cqags1,"0413, en fait0412 le",programme0412 s'appe0312lait Littarature0411 et,t,l,ə,p,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+125904,538,cqajr1,JR: Ensuite0412 je,suis allae faire0412 mon cagep0413.,t,ʒ,ə,s,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+125928,562,cqajr1,JR: Ensuite0412 je,"suis allae a l'acole0412 NotreDame0414, l'ac",t,ʒ,ə,s,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+125990,625,cqajs1,ben bon comme0412 je,"vous disais la seule0412 difficulta c'est, il y",m,ʒ,ə,v,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+125995,630,cqajs1,JF: Comme0412 je,"dis il y a les s/, il y a surtout le0112 mot comm",m,ʒ,ə,d,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+126015,650,cqajs1,"c0411 euh, je0112 me","suis dit que0112 c'atait, peu0232taatre0412 pas",ʒ,m,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126023,658,cqajs1,JF: (Car) on parle,"des commune0411s et tout mais, je1132 sais pas du",R,l,ə,d,0422,Quebec ville (universite),guided,no,polysylend,C,C,M,Quebec,Canada,0
+126031,667,cqamg1,un projet de0112 re,"cherche0421 en phonologie,",d,R,ə,S,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+126045,681,cqamg1,dans la ville0412 de,"Quabec0413,",l,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126050,686,cqamg1,"euh, au DEUG0412 je","crois en France0413, le1132 baccalauraat.",?,ʒ,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126054,690,cqamg1,p0412 suit le0112 se,condaire0411 ensuite0411 on a le0112 baccalauraat,l,s,ə,k,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+126072,708,cqamg1,MG: Mais pour0412 le,"reste0421 euh, c/e1132 sont des origine0412s fra",R,l,ə,R,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126074,710,cqamg1,2grand'mere0412 de,ma mere0411 atait irlandaise0413.,R,d,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126095,731,cqams1,pres aa ce0112 que,"j'ai fait c'est j'ai euh, ramassa tous les empru",s,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126098,734,cqams1,: Oui ben ce0112 que,j'ai>,s,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126101,737,cqams1,t la collec0452te de,"plusieur0412s liv0453res, et puis apres aa ce01",t,d,ə,p,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126109,746,cqams1,32 l'analyse0412 que,"j'ai fait euh, jusqu'a mainte0312nant,",z,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126141,778,cqams1,un passage0411 entre,l'acole1412 se1222condaire0411 et l'universita.,t,R,ə,l,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+126161,798,cqams1,aa c'est que0112 le,systeme0412 d'aducation est diffarent ici.,k,l,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126203,841,cqacp1,ants puisse0412nt le,"lire0413,",s,l,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126205,843,cqaab1,n des chose0412s que,"les, les, les pauv0452res franaais qui sont dab",z,k,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126218,856,cqacp2,"a, aa re0212ssemble","pas a du ganarativisme1423, a premiere0412 v",b,l,ə,p,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126229,867,cqags1,"12 porter euh, notre",gilet hor0412s des pantalons.,t,R,ə,ʒ,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126256,894,cqajs1,xante0312 dix0412 le,"mouve0312ment joualisant euh,",s,l,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126265,903,cqacp2,sit a vendre0412 le,"mois de0112 Septembre0421 aux, aux Europaens.",R,l,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126266,904,cqacp2,0452le aa je0112 re,garde aa aa me0112 dit quelque0312 chose0413 (ri,ʒ,R,ə,g,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,M,Quebec,Canada,1
+126268,906,cqacp2,"212puis euh, quelque",s annaes on raussit a vendre0412 le1122 mois de,l,k,ə,z,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126270,908,cqacp1,sur0412 ces article,sla,k,l,ə,l,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+126276,914,cqams1,2 que1122 je0112 fai,"sais c'est que euh, pour0413, pas qu'ils soient in",ʒ,f,ə,z,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+126279,917,cqams1,"puis euh, ce0132 que","je0112 fai1222sais c'est que euh, pour0413, pas q",s,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126284,922,cqamg1,je0132 dis on parce,"que0411 euh,",R,s,ə,k,0322,Quebec ville (universite),guided,no,polysyl2,C,C,F,Quebec,Canada,0
+126287,925,cqamg1,MG: donc0412 je,"vais observer comment les sons sont adaptas euh,",k,ʒ,ə,v,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+126310,948,cqaab1,e1122 Trasor0412 de,la Langue0412 Franaaise0412 (de) l'autre0412 ca,R,d,ə,l,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+126318,956,cqaab1,232marquez je0112 me,suis rendue jusqu'a l'universita comme0412 aa,ʒ,m,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126346,984,cqacp1,u'ils mette0412nt le,maame0412 symbole0412 que1122 pour0412 l'anglais,t,l,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126396,1035,cqags1,la au cagep0412 de,"Sainte0312Foi,",p,d,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126406,1045,cqags1,ait des cour0412s de,"formation classique0412 aussi,",R,d,ə,f,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126408,1047,cqags1,ui atait a quelque,s rues de0112 chez moi seule0312ment.,l,k,ə,R,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126413,1052,cqajr1,"En, science0412s de",la nature0413.,s,d,ə,l,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+126418,1057,cqajr1,"mais bon, je0132 me","donne0411 euh, jusqu'au trente0411 avril pour0412",ʒ,m,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126428,1067,cqajr1,"oup, ma mere0412 ve","nait de0112 SaintPaul0312laCroix, qui est un vi",R,v,ə,n,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126435,1075,cqajs1,mme0412 les n0412 de,"nagation, les tu sais.",n,d,ə,n,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126436,1076,cqajs1,les erreur0412s que,"j'ai fait,",R,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126442,1082,cqajs1,as l'habitude0412 de,"lire0413, ou maame0412 dire0413.",d,d,ə,l,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126444,1084,cqajs1,je0112 pense0412 que,"vous avez raison on l'acrit avec0411 un e, ou de",s,k,ə,v,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126449,1089,cqajs1,JF: Ca parle,d'une0412 raalita franaaise0412 la mais euh.,R,l,ə,d,0422,Quebec ville (universite),guided,no,polysylend,C,C,M,Quebec,Canada,0
+126457,1097,cqajs1,semb0452le (que) je,connais le1112 tit0454re Le1132 Nouvel Observateu,?,ʒ,ə,k,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+126460,1100,cqajs1,"l'Express0413, Ouest","Liberta, Le1132 Nouvel Observateur0413,",s,t,ə,l,0422,Quebec ville (universite),guided,no,polysylend,C,C,M,Quebec,Canada,0
+126485,1125,cqamg1,411 a l'age0412 de,"quatorze0421 ans euh, on est damanagas dans la",ʒ,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126497,1137,cqamg1,"nts, vienne0412nt de",Quabec0413.,n,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126510,1150,cqams1,412 des base0412s de,donnaes importante0412s la ici les emprunts il,z,d,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126511,1151,cqams1,MS: Ce0132 que,"j'ai dacouver0413t, ben comme0412 dans tous les",s,k,ə,ʒ,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126514,1154,cqams1,ute0412 sorte0422 de,"de1212vinettes disons que2112 leur, leur1142 fair",t,d,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126517,1157,cqams1,'est un cour0412s de,"trois ans, qu'on fait au niveau collagial0413, p",R,d,ə,t,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126519,1159,cqams1,MS: toute0412 sorte,"de1122 de1212vinettes disons que2112 leur, leur11",R,t,ə,d,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+126521,1161,cqams1,1422 l'acole1412 se,condaire0411 et l'universita.,l,s,ə,k,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+126531,1171,cqamt1,"e0131 euh, je0132 me","praoccupe0412 pas de0112 l'heure0412 qu'il est,",ʒ,m,ə,p,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126534,1174,cqamt1,"MT: Oui, je0132 le",fais.,ʒ,l,ə,f,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126562,1202,cqacp1,"0413s, parce0322 que",tu,s,k,ə,t,1422,Quebec ville (universite),guided,yes,polysylend,C,C,F,Quebec,Canada,1
+126563,1203,cqacp1,"apreuve0413s, parce",que1422 tu,R,s,ə,k,0322,Quebec ville (universite),guided,no,polysyl2,C,C,F,Quebec,Canada,0
+126571,1211,cqacp1,0412 la peine0412 de,"vraiment soigner un article0423, de1132 vraiment",n,d,ə,v,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126580,1220,cqacp2,alor0412s je0122 me,"dis bon alor0411s euh,",ʒ,m,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126581,1221,cqacp2,"s rien, alor0412s je","me1122 dis bon alor0411s euh,",R,ʒ,ə,m,0122,Quebec ville (universite),guided,no,monosyl,C,C,M,Quebec,Canada,0
+126586,1226,cqacp2,nt les ganativiste,"s franaais, je1132 connais plutat les amaricain",s,t,ə,f,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126596,1236,cqags1,neuf0412 cent quatre,vingt.,t,R,ə,v,0322,Quebec ville (universite),guided,no,polysyl2,C,C,M,Quebec,Canada,0
+126603,1243,cqags1,122 rapproche0412 le,"micro ou euh.> Ca va la,",S,l,ə,m,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126605,1245,cqags1,ux que1112 je0112 te,"rapproche0412 le1122 micro ou euh.> Ca va la,",ʒ,t,ə,R,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126619,1260,cqajs1,422 aa parle0422 de,commune0413.,l,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,M,Quebec,Canada,1
+126620,1261,cqajs1,22 que1422 aa parle,de1122 commune0413.,R,l,ə,d,0422,Quebec ville (universite),guided,no,polysylend,C,C,M,Quebec,Canada,0
+126621,1262,cqajs1,": Euh, parce0322 que",aa parle0422 de1122 commune0413.,s,k,ə,s,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126622,1263,cqajs1,"JF: Euh, parce",que1422 aa parle0422 de1122 commune0413.,R,s,ə,k,0322,Quebec ville (universite),guided,no,polysyl2,C,C,M,Quebec,Canada,0
+126625,1266,cqamg1,ents vienne0412nt de,"Quab/ euh, mon pere0411 est na a Verdun mais",n,d,ə,k,0122,Quebec ville (universite),guided,no,monosyl,C,C,F,Quebec,Canada,0
+126632,1273,cqamg1,12 quatorze0422 mars,mille0412 neuf0412 cent soixante0412 seize0412.,R,s,ə,m,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+126633,1274,cqamg1,nae le1112 quatorze,mars0422 mille0412 neuf0412 cent soixante0412 sei,R,z,ə,m,0422,Quebec ville (universite),guided,no,polysylend,C,C,F,Quebec,Canada,0
+126637,1278,cqams1,it mon acole0412 se,"condaire0412 dans un, college2411 euh, francophon",l,s,ə,g,1222,Quebec ville (universite),guided,yes,polysyl1,C,C,F,Quebec,Canada,1
+126644,1285,cqams1,dans la ville0412 de,Quabec0414. Oui.,l,d,ə,k,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126666,1308,cqajs1,est notre0412 propre,"langue0411 a nous,",p,R,ə,l,1422,Quebec ville (universite),guided,yes,polysylend,C,C,M,Quebec,Canada,1
+126681,1323,cqamg1,des atude0412s que,du travail0413.,d,k,ə,d,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+126686,1328,cqamt1,MT: je0132 me,sentirais moins sacure0412 la. Ouais.,ʒ,m,ə,s,1122,Quebec ville (universite),guided,yes,monosyl,C,C,F,Quebec,Canada,1
+187573,2,cqamt1,: Ils peuve0412nt me,conseiller euh.,v,m,ə,k,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187586,15,cqamg1,412 euh juste0422 le,"logiciel0413, tu as rien,",t,l,ə,l,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187596,25,cqags1,ils appellen0412t le,"football0412 labas le0112 football0411 euh, c'e",l,l,ə,f,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187602,31,cqaab1,un cafa ou quelque,chose0412,l,k,ə,S,1322,Quebec ville (universite),free,yes,polysyl2,C,C,F,Quebec,Canada,1
+187611,40,cqamg1,s de0112 base0412 de,"donnaes,",z,d,ə,d,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187648,78,cqaab1,0132 faut que0112 ce,soit,k,s,ə,s,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187663,93,cqaab1,ami. Estce0312 que,tu vas trouver que0112 la fille0412 c'est une0412,s,k,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187667,97,cqaab1,1 ou quoi que0112 ce,"soit, ce0132 qu'il atait d'accor0413d. (pause)",k,s,ə,s,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187696,127,cqags1,ait pas celle0412 de,"Malanie, mais une0411 aide0412 quand maame0413.",l,d,ə,m,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187707,138,cqags1,compatente0412 que,"moi euh, en informatique0413.",t,k,ə,m,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187712,143,cqags1,des service0412s de,"Malanie euh,",s,d,ə,m,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187714,145,cqags1,je0112 pense0412 que,"nos goats euh,",s,k,ə,n,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187719,150,cqags1,GS: On parle,beaucoup de0112 cinama aussi,R,l,ə,b,0422,Quebec ville (universite),free,no,polysylend,C,C,M,Quebec,Canada,0
+187724,155,cqajr1,st que0112 les juste,ment les gars quabacois entreprenants passe0412n,s,t,ə,m,1322,Quebec ville (universite),free,yes,polysyl2,C,C,F,Quebec,Canada,1
+187726,157,cqajr1,"un, brasilien juste","ment il y avait fait aa lui il atait euh,",s,t,ə,m,1322,Quebec ville (universite),free,yes,polysyl2,C,C,F,Quebec,Canada,1
+187732,163,cqajr1,n peutaat0452re que,"juste1322ment les gars,",R,k,ə,ʒ,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187733,164,cqajr1,0452re que1122 juste,"ment les gars,",s,t,ə,m,1322,Quebec ville (universite),free,yes,polysyl2,C,C,F,Quebec,Canada,1
+187738,169,cqajr1,'est l'image0412 que,j'en ai euh.,ʒ,k,ə,ʒ,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187767,199,cqajs1,on mais comme0412 je,"te1122 dis euh,",m,ʒ,ə,t,0122,Quebec ville (universite),free,no,monosyl,C,C,M,Quebec,Canada,0
+187768,200,cqajs1,comme0412 je0122 te,"dis euh,",ʒ,t,ə,d,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187770,202,cqajs1,eut dapend0452re de,la perception mais comme0412 je0122 te1122 dis eu,R,d,ə,l,0122,Quebec ville (universite),free,no,monosyl,C,C,M,Quebec,Canada,0
+187775,207,cqamg1,MG: Parce0312 que,"tout, tout0411 euh, (FileMaker) puis euh,",s,k,ə,t,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+187777,209,cqamg1,", c'est, c'est juste",( de tout aa) des macros.,s,t,ə,?,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+187784,216,cqamg1,MG: Estce0312 que,aa se0212rait (XX) si on pouvait transfarer les,s,k,ə,s,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+187798,233,cqamg1,", les, les tests que",tu as fait0413.,t,k,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187804,240,cqamg1,raconter ce0112 que,"tu as fait0412 tantat pour0412 l'ordi la, les,",s,k,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187832,269,cqams1,c'est juste0412 que,"c'est beaucoup de0112 travail0413, la par0411 ex",t,k,ə,s,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187834,271,cqams1,as pas l'air0412 de,"trouver aa euh,",R,d,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187841,278,cqams1,: ben ce soir0412 je,"vais travailler sur0411 euh, mes structure0412s s",R,ʒ,ə,v,0122,Quebec ville (universite),free,no,monosyl,C,C,F,Quebec,Canada,0
+187852,289,cqams1,"Non, on parle0422 de",tout.,l,d,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187866,303,cqamt1,s programme0412s que,"j'ouvrais,",m,k,ə,ʒ,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187880,317,cqaab1,x japonais.> quelque,s atape0412s qui sont. (rires),l,k,ə,z,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+187881,318,cqams1,c'est aa ce0112 que,"je0112 faisais c'est que1112 je l/ euh, je1132 le",s,k,ə,ʒ,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187890,328,cqams1,ns le0112 Sud0412 de,"l'Italie, j'atais a,",d,d,ə,l,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187897,335,cqamg1,a base2412 euh juste,"le1122 logiciel0413, tu as rien,",s,t,ə,l,0422,Quebec ville (universite),free,no,polysylend,C,C,F,Quebec,Canada,0
+187898,336,cqajs1,eut dapend0452re de,l'endroit aussi mettons que0112 c'est un bar0411,R,d,ə,l,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187902,340,cqags1,sports comme0412 le,baseball0411 ou.,m,l,ə,b,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+187918,356,cqags1,l0412s spor0412ts je,"veux dire0414 c'est, c'atait sare0312ment pas l",R,ʒ,ə,v,0122,Quebec ville (universite),free,no,monosyl,C,C,M,Quebec,Canada,0
+187923,361,cqaab1,BB: Juste0412 te,"donner un conseil0413, cogne0412 pas ton coude041",t,t,ə,d,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187949,388,cqags1,nos goats se0112 re,ssemb0452lent beaucoup. Euh..,s,R,ə,s,1222,Quebec ville (universite),free,yes,polysyl1,C,C,M,Quebec,Canada,1
+187960,399,cqajr1,tait mis a la porte,"du Dagober0413t,",R,t,ə,d,0422,Quebec ville (universite),free,no,polysylend,C,C,F,Quebec,Canada,0
+187967,406,cqajr1,R: Qu'estce0312 que,"tu en pense0414s, Anne0312Marie.",s,k,ə,t,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187968,407,cqajr1,R: On discute0412 de,quoi euh?>,t,d,ə,k,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+187973,412,cqajs1,"euh, que1132 d'autre","s fois je0112 veux dire0413,",t,R,ə,f,1422,Quebec ville (universite),free,yes,polysylend,C,C,M,Quebec,Canada,1
+187996,436,cqams1,mon mamoire0412 je,"travaille0412 sur0413, les emprunts anglais euh e",R,ʒ,ə,t,0122,Quebec ville (universite),free,no,monosyl,C,C,F,Quebec,Canada,0
+188000,440,cqams1,ille0412 cent quatre,vingt cinq0412 forme1413s,t,R,ə,v,0322,Quebec ville (universite),free,no,polysyl2,C,C,F,Quebec,Canada,0
+188013,453,cqams1,communs oui on parle,"de0421 euh.> Oui, une passion commune.",R,l,ə,d,0422,Quebec ville (universite),free,no,polysylend,C,C,F,Quebec,Canada,0
+188020,460,cqamt1,MT: donc0412 je,pensais pouvoir0412 tout tester lade0312ssus pu,k,ʒ,ə,p,0122,Quebec ville (universite),free,no,monosyl,C,C,F,Quebec,Canada,0
+188029,469,cqaab1,n avais marre0412 de,"discuter il nous a euh, Monsieur Durand nous a de",R,d,ə,d,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1
+188031,471,cqaab1,BB: Parce0312 que,tantat j'en avais marre0412 de1122 discuter il n,s,k,ə,t,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+188035,475,cqags1,m) le1132 mal0412 de,"vivre0421 euh, (Mon Dieu) quand, quand, quand tu",l,d,ə,v,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+188039,479,cqags1,"h, le1132 mal0412 de",vivre0423.(rire),l,d,ə,v,1122,Quebec ville (universite),free,yes,monosyl,C,C,M,Quebec,Canada,1
+188054,496,cqams1,"MS: Non, on parle",de1122 tout.,R,l,ə,d,0422,Quebec ville (universite),free,no,polysylend,C,C,F,Quebec,Canada,0
+188063,507,cqajs1,JF: c'est ouverte,"ment pour aller rencontrer quelqu'un, peutaat0453",R,t,ə,m,0322,Quebec ville (universite),free,no,polysyl2,C,C,M,Quebec,Canada,0
+188078,522,cqams1,", hein parce0312 que","des fois, si tu vois un mot a l'acrit,",s,k,ə,d,1422,Quebec ville (universite),free,yes,polysylend,C,C,F,Quebec,Canada,1
+188081,525,cqams1,ta faaon de0112 le,prononcer.,d,l,ə,p,1122,Quebec ville (universite),free,yes,monosyl,C,C,F,Quebec,Canada,1

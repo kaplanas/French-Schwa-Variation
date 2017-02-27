@@ -53,19 +53,19 @@ zone_to_cities <- function(zs) {
 }
 
 load_data <- function() {
-  speakers <- read.csv("data/5 Speaker Info.csv")
+  speakers <- read.csv("5 Speaker Info.csv")
   speakers$Region = city_to_region(speakers$City)
   speakers$Zone = region_to_zone(speakers$Region)
   speakers <<- speakers
-  read_1 <- read.csv("data/1 Texte lu cleaned.csv")
-  read_2 <- read.csv("data/1 Texte lu part 2 cleaned.csv")
+  read_1 <- read.csv("1 Texte lu cleaned.csv")
+  read_2 <- read.csv("1 Texte lu part 2 cleaned.csv")
   read <- rbind(read_1, read_2)
   read$Discourse = "read"
-  guided_1 <- read.csv("data/3 Discussion guidee cleaned.csv")
-  guided_2 <- read.csv("data/3 Discussion guidee part 2 cleaned.csv")
+  guided_1 <- read.csv("3 Discussion guidee cleaned.csv")
+  guided_2 <- read.csv("3 Discussion guidee part 2 cleaned.csv")
   guided <- rbind(guided_1, guided_2)
   guided$Discourse = "guided"
-  free <- read.csv("data/4 Discussion libre cleaned.csv")
+  free <- read.csv("4 Discussion libre cleaned.csv")
   free$Discourse = "free"
   tokens <- rbind(read, guided, free)
   tokens$Codes = as.character(tokens$Codes)
