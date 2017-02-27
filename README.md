@@ -1,6 +1,8 @@
 # French-Schwa-Variation
 A study of inter-speaker variation in the PFC corpus of spoken French
 
+![Sample histograms](https://github.com/kaplanas/French-Schwa-Variation/blob/master/v_c_mono.png)
+
 ## Authors
 + Aaron Kaplan
 + Andrew Bayles
